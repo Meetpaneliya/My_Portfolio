@@ -310,7 +310,7 @@ export const projects = [
       "https://freebiesbug.com/wp-content/uploads/2022/01/designer-portfolio-template.jpg",
     tags: ["React js", "Css", "Html", "Javascript", "Boostrap"],
     category: "web app",
-    github: "https://github.com/Meetpaneliya/My-Portfolio",
+    github: "https://github.com/Meetpaneliya/My_Portfolio",
     webapp: " ",
    
   },
